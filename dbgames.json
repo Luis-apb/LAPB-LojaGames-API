@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "Jogo 1",
+      "descricao": "Jogo Clássico",
+      "foto": "jogo1.PNG",
+      "preco": 350
+    },
+    {
+      "id": "2",
+      "produto": "Jogo 2",
+      "descricao": "Jogo de Aventura",
+      "foto": "jogo2.PNG",
+      "preco": 290
+    },
+    {
+      "id": "3",
+      "produto": "Jogo 3",
+      "descricao": "Jogo de RPG",
+      "foto": "jogo3.PNG",
+      "preco": 400
+    },
+    {
+      "id": "4",
+      "produto": "Jogo 4",
+      "descricao": "Coletânea de Jogos",
+      "foto": "jogo4.PNG",
+      "preco": 450
+    }
+  ]
+}
